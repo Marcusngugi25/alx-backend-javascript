@@ -1,6 +1,30 @@
 # Project Name
 **0x00. ES6 Basics**
 
+![Node_JS](./main-files/arrow-functions.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&width=435&lines=ES6+Basic\(:)](https://git.io/typing-svg)
+
+> This document outlines the tasks for the ES6 Basics project, which is part of the ALXSE short specializations curriculum focused on modern JavaScript, particularly ECMAScript 6 (ES6).
+
+![Arrow Functions](./main-files/node_js-img.png)
+
+## Resources
+
+### Read or watch:-
+
+- [ECMAScript 6 - ECMAScript 2015](https://www.w3schools.com/js/js_es6.asp)
+
+- [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+
+- [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+- [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+
+- [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+
+- [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
+
 ##  Requirements
 
 ### JavaScript Scripts
